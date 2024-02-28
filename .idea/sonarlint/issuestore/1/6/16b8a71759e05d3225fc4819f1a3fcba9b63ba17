@@ -1,0 +1,7 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä”òª8„î˜È1
+X	java:S125M"<This block of commented-out lines of code should be removed.(áÉù¤8×„î˜È1
+B
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8Éğ¯¯È1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8Êğ¯¯È1

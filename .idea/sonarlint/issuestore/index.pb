@@ -1,0 +1,37 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+a
+1src/main/java/fa/training/entities/Candidate.java,f\2\f29578f5360963c735b2bfa6724f6d71a00c8a8f
+a
+1src/main/java/fa/training/entities/Interview.java,7\9\79d3d92d219392a76b334f2bdb49888f4bd9ad79
+a
+1src/main/java/fa/training/entities/EntryTest.java,7\6\76bb44409dee56b466140cea2ecbd9b2b4f2a088
+S
+#src/main/java/DAO/CandidateDao.java,9\6\96c9e2f7436ff29441b453e29eac6d2a8ed8e475
+S
+#src/main/java/DAO/InterviewDao.java,8\f\8f69e3ad4dc64fd7ae77a0c45ae51325333799b6
+S
+#src/main/java/DAO/EntryTestDao.java,4\3\43bc343ddcb1930de4097f89dfe2dd8d5d43c8ae
+C
+src/main/java/Utils,6\a\6a3809183324abd0df474f431eff192938dc7013
+W
+'src/main/java/Utils/HibernateUtils.java,1\7\17ae70413984c1535e45e19a2deb7d0bd90c5ad3
+W
+'src/main/java/DAO/CandidateDaoImpl.java,a\c\ac56f034c670b4fc18b557a82221d6e1706dd06e
+P
+ src/test/java/TestCandidate.java,5\c\5c0eeb0ec0e7779db5147df0d7072157dc50fac0
+W
+'src/main/java/DAO/InterviewDaoImpl.java,c\2\c2f76b29c824e20ac64d4b77d9912a264ddbf760
+P
+ src/test/java/TestInterview.java,8\1\815c380268f2f99198473822e342d09ea21e2f4c
+W
+'src/main/java/DAO/EntryTestDaoImpl.java,6\3\63d892b1c38d9edc7ce8a6541b3499aa710f4b12
+P
+ src/test/java/TestEntryTest.java,6\3\6305cc4b5e62e8012a69c1770512dc183176a606
+N
+src/test/java/TestService.java,7\2\726b3e207fbb3b0333dbd57dbdd0c6d7529f0127
+Q
+!src/main/java/DAO/ServiceDAO.java,7\f\7f3d0048806baa0c3a03b870864364f7e1f9f1ec
+U
+%src/main/java/DAO/ServiceDAOImpl.java,1\6\16b8a71759e05d3225fc4819f1a3fcba9b63ba17

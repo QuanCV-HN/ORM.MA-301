@@ -1,0 +1,8 @@
+
+Q
+java:S3740^"/Provide the parametrized type for this generic.(ğòÆøÿÿÿÿ8“ı°ÿÇ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä”òª8ı°ÿÇ1
+]
+java:S1128";Remove this unused import 'fa.training.entities.Candidate'.(ùá©Ñùÿÿÿÿ8“À‚È1
+c
+java:S1128	"GRemove this unused import 'javax.persistence.criteria.CriteriaBuilder'.(É¿F8“À‚È1
